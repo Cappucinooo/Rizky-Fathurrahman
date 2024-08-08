@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Membuat Navbar</title>
+    <link rel="stylesheet" href="nav.css">
+</head>
+<body>
+    <nav>
+    <div class="nav">
+        <img src="image.png" alt="logo smkn 2 pekanbaru">
+        <ul> 
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Me</a></li>
+            <li><a href="#">My Skill</a></li> 
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </div>
+</nav>
+    <div class="background"></div>
+</body>
+</html>
